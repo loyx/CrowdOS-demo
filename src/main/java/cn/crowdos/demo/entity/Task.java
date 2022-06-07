@@ -1,7 +1,6 @@
 package cn.crowdos.demo.entity;
 
 import cn.crowdos.kernel.constraint.Constraint;
-import cn.crowdos.kernel.constraint.wrapper.IntegerCondition;
 import cn.crowdos.kernel.resource.SimpleTask;
 
 import java.util.List;
